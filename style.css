@@ -1,9 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .header{
-
+    color: #F9FAF8;
+    background-color: #1f2937;
 }
+
 .headertop{
-
+    display:flex;
+    justify-content: space-between;
 }
-.headerlogo{
-    
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
 }
