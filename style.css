@@ -85,3 +85,20 @@ button{
 .box{
     width: 150px;
 }
+.quotesection{
+    background-color: #e5e7eb;
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    padding: 10px;
+}
+.quoteauthor{
+    color: #1f2937;
+    font-weight: bold;
+    align-self: flex-end;
+}
